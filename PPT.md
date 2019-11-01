@@ -2,6 +2,7 @@
 * iSilde  
 * PA口袋动画  
 * OneKeyTools 排版/图片神器  
+* 插入-SmartArt  
 
 # 色彩  
 渐变  
