@@ -5,8 +5,8 @@ windows 办公 & 学习
 | win+左/右/上/下箭头  | 分屏 |
 | ctrl+shift+n  | 新建文件夹 |
 | win+i | 打开windows设置 |
-| alt+2 | 打开windows设置 |
-| alt+3 | 打开windows设置 |
+| alt+2 | 计算器，科学计算模式 |
+| alt+3 | 计算器，程序员模式 |
 | ctrl+E | 日期计算 |
 | ctrl+F4 | 关闭当前程序中的tab页 |
 | alt+F4 | 关闭当前程序 |
