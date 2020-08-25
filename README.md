@@ -16,6 +16,7 @@ windows 办公 & 学习
 
 Github图片不能显示，需要更新Github DNS：
 在host文件中加入以下内容（202003有效）：
+```c
 # GitHub Start 
 140.82.113.3      github.com
 140.82.114.20     gist.github.com
@@ -43,3 +44,4 @@ Github图片不能显示，需要更新Github DNS：
 199.232.68.133     avatars7.githubusercontent.com
 151.101.184.133    avatars8.githubusercontent.com
 199.232.68.133     avatars8.githubusercontent.com
+```
